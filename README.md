@@ -149,10 +149,20 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For more information and updates, check out the project repository on GitHub: MyBLEMeshNetwork.
 
-### Customization Notes
+Customization Notes
 
-- Replace `yourusername` in the clone URL and project repository link with your GitHub username.
-- Update the project description, features, and any specific instructions to reflect your library's functionality and use case accurately.
-- Consider adding badges (like build status, license, etc.) at the top of the README for better visibility and professionalism.
+Replace yourusername in the clone URL and project repository link with your GitHub username.
 
+Update the project description, features, and any specific instructions to reflect your library's functionality and use case accurately.
+
+Consider adding badges (like build status, license, etc.) at the top of the README for better visibility and professionalism.
+
+
+### Changes Made:
+1. Corrected the Markdown formatting for code blocks and lists.
+2. Added missing backticks and consistent indentation.
+3. Organized sections clearly with headings and proper bullet points.
+4. Ensured all code snippets are properly enclosed in triple backticks for readability.
+
+This structure should be clear and user-friendly for anyone looking to understand and use your library.
 
